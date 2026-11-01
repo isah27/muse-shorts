@@ -1,0 +1,242 @@
+{
+  "voice": "ngozi",
+  "seed": 1234,
+  "gpu": "Tesla T4",
+  "sr": 24000,
+  "lufs": -16.0,
+  "lang": "ha",
+  "lines": [
+    {
+      "index": 0,
+      "lang": "ha",
+      "voice": "ngozi",
+      "hash": "ed3c54a9477e4e07",
+      "text": "Allurar rigakafinka ta dasa ƙwayoyin barci da ke jiran har na shekaru goma-goma. Ga horon ɓoye da ke cikin jikinka.",
+      "file": "00_ed3c54a9477e4e07.wav",
+      "seconds": 7.94,
+      "segments": [
+        {
+          "text": "Allurar rigakafinka ta dasa ƙwayoyin barci da ke jiran har na shekaru goma-goma.",
+          "gpu_s": 8.27,
+          "tokens": 240,
+          "cap": 240,
+          "cap_hit": true,
+          "raw_s": 9.56,
+          "trimmed_s": 5.26
+        },
+        {
+          "text": "Ga horon ɓoye da ke cikin jikinka.",
+          "gpu_s": 4.31,
+          "tokens": 125,
+          "cap": 125,
+          "cap_hit": true,
+          "raw_s": 4.96,
+          "trimmed_s": 2.5
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "lang": "ha",
+      "voice": "ngozi",
+      "hash": "20d82ef2573f0568",
+      "text": "Alluran rigakafi suna aiki ne saboda garkuwar jikinka na tuna. Tsarin garkuwar jikinka mai daidaitawa ne ke gina wannan ƙwaƙwalwar.",
+      "file": "01_20d82ef2573f0568.wav",
+      "seconds": 7.98,
+      "segments": [
+        {
+          "text": "Alluran rigakafi suna aiki ne saboda garkuwar jikinka na tuna.",
+          "gpu_s": 6.59,
+          "tokens": 195,
+          "cap": 195,
+          "cap_hit": true,
+          "raw_s": 7.76,
+          "trimmed_s": 3.66
+        },
+        {
+          "text": "Tsarin garkuwar jikinka mai daidaitawa ne ke gina wannan ƙwaƙwalwar.",
+          "gpu_s": 7.08,
+          "tokens": 210,
+          "cap": 210,
+          "cap_hit": true,
+          "raw_s": 8.36,
+          "trimmed_s": 4.14
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "lang": "ha",
+      "voice": "ngozi",
+      "hash": "18c814c59310600f",
+      "text": "Ƙwayoyin B da aka kunna suna rabuwa zuwa hanyoyi biyu. Ƙwararrun suna girma a cikin cibiyoyin germinal na ƙwayar lymph dinka.",
+      "file": "02_18c814c59310600f.wav",
+      "seconds": 8.52,
+      "segments": [
+        {
+          "text": "Ƙwayoyin B da aka kunna suna rabuwa zuwa hanyoyi biyu.",
+          "gpu_s": 6.04,
+          "tokens": 175,
+          "cap": 175,
+          "cap_hit": true,
+          "raw_s": 6.96,
+          "trimmed_s": 3.84
+        },
+        {
+          "text": "Ƙwararrun suna girma a cikin cibiyoyin germinal na ƙwayar lymph dinka.",
+          "gpu_s": 7.18,
+          "tokens": 215,
+          "cap": 215,
+          "cap_hit": true,
+          "raw_s": 8.56,
+          "trimmed_s": 4.5
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "lang": "ha",
+      "voice": "ngozi",
+      "hash": "1c7f49a9b3ed7413",
+      "text": "Da farko, gajeriyar igiyar harbi tana tashi a wajen cibiyoyin germinal. Saurin gaske ne, amma ba kariyar ƙarshe ba ce.",
+      "file": "03_1c7f49a9b3ed7413.wav",
+      "seconds": 8.48,
+      "segments": [
+        {
+          "text": "Da farko, gajeriyar igiyar harbi tana tashi a wajen cibiyoyin germinal.",
+          "gpu_s": 7.24,
+          "tokens": 217,
+          "cap": 217,
+          "cap_hit": true,
+          "raw_s": 8.64,
+          "trimmed_s": 5.26
+        },
+        {
+          "text": "Saurin gaske ne, amma ba kariyar ƙarshe ba ce.",
+          "gpu_s": 5.35,
+          "tokens": 154,
+          "cap": 154,
+          "cap_hit": true,
+          "raw_s": 6.12,
+          "trimmed_s": 3.04
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "lang": "ha",
+      "voice": "ngozi",
+      "hash": "f076cc025b79e6ac",
+      "text": "A cikin cibiyoyin germinal ƙwararrun ƙwayoyi ne ke yin mafi kyawun antibodies ɗinka. Suna gudanar da zagaye bayan zagaye suna maye gurbin ƙwayoyin halittar antibody.",
+      "file": "04_f076cc025b79e6ac.wav",
+      "seconds": 11.22,
+      "segments": [
+        {
+          "text": "A cikin cibiyoyin germinal ƙwararrun ƙwayoyi ne ke yin mafi kyawun antibodies ɗinka.",
+          "gpu_s": 8.26,
+          "tokens": 250,
+          "cap": 250,
+          "cap_hit": true,
+          "raw_s": 9.96,
+          "trimmed_s": 5.38
+        },
+        {
+          "text": "Suna gudanar da zagaye bayan zagaye suna maye gurbin ƙwayoyin halittar antibody.",
+          "gpu_s": 7.97,
+          "tokens": 240,
+          "cap": 240,
+          "cap_hit": true,
+          "raw_s": 9.56,
+          "trimmed_s": 5.66
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "lang": "ha",
+      "voice": "ngozi",
+      "hash": "877f2a8c3ccdb1cb",
+      "text": "Ƙwayoyin B za su sake rubuta masu karɓa a cikin cibiyoyin germinal. Maye gurbi na ƙara ko rage mannewa a lokacin balagar affinity.",
+      "file": "05_877f2a8c3ccdb1cb.wav",
+      "seconds": 9.0,
+      "segments": [
+        {
+          "text": "Ƙwayoyin B za su sake rubuta masu karɓa a cikin cibiyoyin germinal.",
+          "gpu_s": 6.87,
+          "tokens": 207,
+          "cap": 207,
+          "cap_hit": true,
+          "raw_s": 8.24,
+          "trimmed_s": 4.38
+        },
+        {
+          "text": "Maye gurbi na ƙara ko rage mannewa a lokacin balagar affinity.",
+          "gpu_s": 6.63,
+          "tokens": 195,
+          "cap": 195,
+          "cap_hit": true,
+          "raw_s": 7.76,
+          "trimmed_s": 4.44
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "lang": "ha",
+      "voice": "ngozi",
+      "hash": "be4143a07db28f55",
+      "text": "Ƙwayoyin B masu ƙwaƙwalwa za su yi yawo cikin natsuwa, wani lokaci har na shekaru goma-goma.",
+      "file": "06_be4143a07db28f55.wav",
+      "seconds": 5.98,
+      "segments": [
+        {
+          "text": "Ƙwayoyin B masu ƙwaƙwalwa za su yi yawo cikin natsuwa, wani lokaci har na shekaru goma-goma.",
+          "gpu_s": 8.86,
+          "tokens": 269,
+          "cap": 269,
+          "cap_hit": true,
+          "raw_s": 10.72,
+          "trimmed_s": 5.98
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "lang": "ha",
+      "voice": "ngozi",
+      "hash": "9120ddaa076fbd44",
+      "text": "Idan virus ɗin ya dawo, suna ƙaddamar da martani mafi sauri, mafi ƙarfi. Suna amsawa nan take don kawar da maharbi. Ka biyo mu don ƙarin ƙarfin jiki na musamman.",
+      "file": "07_9120ddaa076fbd44.wav",
+      "seconds": 12.0,
+      "segments": [
+        {
+          "text": "Idan virus ɗin ya dawo, suna ƙaddamar da martani mafi sauri, mafi ƙarfi.",
+          "gpu_s": 7.3,
+          "tokens": 220,
+          "cap": 220,
+          "cap_hit": true,
+          "raw_s": 8.76,
+          "trimmed_s": 5.78
+        },
+        {
+          "text": "Suna amsawa nan take don kawar da maharbi.",
+          "gpu_s": 4.91,
+          "tokens": 145,
+          "cap": 145,
+          "cap_hit": true,
+          "raw_s": 5.76,
+          "trimmed_s": 2.74
+        },
+        {
+          "text": "Ka biyo mu don ƙarin ƙarfin jiki na musamman.",
+          "gpu_s": 5.15,
+          "tokens": 152,
+          "cap": 152,
+          "cap_hit": true,
+          "raw_s": 6.04,
+          "trimmed_s": 3.12
+        }
+      ]
+    }
+  ]
+}

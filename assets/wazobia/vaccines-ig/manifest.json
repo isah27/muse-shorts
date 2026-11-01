@@ -1,0 +1,242 @@
+{
+  "voice": "ngozi",
+  "seed": 1234,
+  "gpu": "Tesla T4",
+  "sr": 24000,
+  "lufs": -16.0,
+  "lang": "ig",
+  "lines": [
+    {
+      "index": 0,
+      "lang": "ig",
+      "voice": "ngozi",
+      "hash": "e388bcc14e806af5",
+      "text": "Ọgwụ mgbochi gị kụrụ mkpụrụ ndụ na-ehi ụra na-eche iri afọ. Nke a bụ ọzụzụ nzuzo na-eme n'ime ahụ gị.",
+      "file": "00_e388bcc14e806af5.wav",
+      "seconds": 8.12,
+      "segments": [
+        {
+          "text": "Ọgwụ mgbochi gị kụrụ mkpụrụ ndụ na-ehi ụra na-eche iri afọ.",
+          "gpu_s": 6.77,
+          "tokens": 187,
+          "cap": 187,
+          "cap_hit": true,
+          "raw_s": 7.44,
+          "trimmed_s": 4.2
+        },
+        {
+          "text": "Nke a bụ ọzụzụ nzuzo na-eme n'ime ahụ gị.",
+          "gpu_s": 4.83,
+          "tokens": 142,
+          "cap": 142,
+          "cap_hit": true,
+          "raw_s": 5.64,
+          "trimmed_s": 3.74
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "lang": "ig",
+      "voice": "ngozi",
+      "hash": "f039acc4eb4f52e6",
+      "text": "Ọgwụ mgbochi na-arụ ọrụ n'ihi na sistemu ahụ gị na-alụso ọrịa ọgụ na-echeta. Sistemu ahụ gị na-alụso ọrịa ọgụ nke na-amụta ihe bụ nke na-ewuli ncheta ahụ.",
+      "file": "01_f039acc4eb4f52e6.wav",
+      "seconds": 11.96,
+      "segments": [
+        {
+          "text": "Ọgwụ mgbochi na-arụ ọrụ n'ihi na sistemu ahụ gị na-alụso ọrịa ọgụ na-echeta.",
+          "gpu_s": 7.72,
+          "tokens": 229,
+          "cap": 229,
+          "cap_hit": true,
+          "raw_s": 9.12,
+          "trimmed_s": 5.66
+        },
+        {
+          "text": "Sistemu ahụ gị na-alụso ọrịa ọgụ nke na-amụta ihe bụ nke na-ewuli ncheta ahụ.",
+          "gpu_s": 7.87,
+          "tokens": 232,
+          "cap": 232,
+          "cap_hit": true,
+          "raw_s": 9.24,
+          "trimmed_s": 6.12
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "lang": "ig",
+      "voice": "ngozi",
+      "hash": "c3d436a4b88b9225",
+      "text": "Mkpụrụ ndụ B ndị etetara na-ekewa ụzọ abụọ. Ndị kacha mma na-etolite n'ime germinal centers nke lymph node gị.",
+      "file": "02_c3d436a4b88b9225.wav",
+      "seconds": 9.32,
+      "segments": [
+        {
+          "text": "Mkpụrụ ndụ B ndị etetara na-ekewa ụzọ abụọ.",
+          "gpu_s": 5.02,
+          "tokens": 147,
+          "cap": 147,
+          "cap_hit": true,
+          "raw_s": 5.84,
+          "trimmed_s": 4.12
+        },
+        {
+          "text": "Ndị kacha mma na-etolite n'ime germinal centers nke lymph node gị.",
+          "gpu_s": 6.98,
+          "tokens": 205,
+          "cap": 205,
+          "cap_hit": true,
+          "raw_s": 8.16,
+          "trimmed_s": 5.02
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "lang": "ig",
+      "voice": "ngozi",
+      "hash": "1c6e8ec8d02e73fa",
+      "text": "Na mbụ, otu ebili mmiri dị mkpụmkpụ na-agba n'èzí germinal centers. Ọ dị ngwa, ma ọ bụghị nchebe ikpeazụ.",
+      "file": "03_1c6e8ec8d02e73fa.wav",
+      "seconds": 9.98,
+      "segments": [
+        {
+          "text": "Na mbụ, otu ebili mmiri dị mkpụmkpụ na-agba n'èzí germinal centers.",
+          "gpu_s": 6.88,
+          "tokens": 207,
+          "cap": 207,
+          "cap_hit": true,
+          "raw_s": 8.24,
+          "trimmed_s": 5.94
+        },
+        {
+          "text": "Ọ dị ngwa, ma ọ bụghị nchebe ikpeazụ.",
+          "gpu_s": 4.51,
+          "tokens": 132,
+          "cap": 132,
+          "cap_hit": true,
+          "raw_s": 5.24,
+          "trimmed_s": 3.86
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "lang": "ig",
+      "voice": "ngozi",
+      "hash": "57f3a2da20ceaeb9",
+      "text": "N'ime germinal centers, mkpụrụ ndụ ndị kachasị mma na-emepụta antibodies gị kachasị mma. Ha na-agafe ọtụtụ agba ugboro ugboro na-amụgharị mkpụrụ ndụ ihe nketa nke antibody.",
+      "file": "04_57f3a2da20ceaeb9.wav",
+      "seconds": 13.38,
+      "segments": [
+        {
+          "text": "N'ime germinal centers, mkpụrụ ndụ ndị kachasị mma na-emepụta antibodies gị kachasị mma.",
+          "gpu_s": 8.62,
+          "tokens": 260,
+          "cap": 260,
+          "cap_hit": true,
+          "raw_s": 10.36,
+          "trimmed_s": 6.64
+        },
+        {
+          "text": "Ha na-agafe ọtụtụ agba ugboro ugboro na-amụgharị mkpụrụ ndụ ihe nketa nke antibody.",
+          "gpu_s": 8.22,
+          "tokens": 247,
+          "cap": 247,
+          "cap_hit": true,
+          "raw_s": 9.84,
+          "trimmed_s": 6.56
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "lang": "ig",
+      "voice": "ngozi",
+      "hash": "c31916cbc954e320",
+      "text": "Mkpụrụ ndụ B ga-edegharị receptors n'ime germinal centers. Mmụgharị na-eme ka njikọta sie ike ma ọ bụ daa mbà n'oge affinity maturation.",
+      "file": "05_c31916cbc954e320.wav",
+      "seconds": 10.72,
+      "segments": [
+        {
+          "text": "Mkpụrụ ndụ B ga-edegharị receptors n'ime germinal centers.",
+          "gpu_s": 6.21,
+          "tokens": 185,
+          "cap": 185,
+          "cap_hit": true,
+          "raw_s": 7.36,
+          "trimmed_s": 4.38
+        },
+        {
+          "text": "Mmụgharị na-eme ka njikọta sie ike ma ọ bụ daa mbà n'oge affinity maturation.",
+          "gpu_s": 7.74,
+          "tokens": 232,
+          "cap": 232,
+          "cap_hit": true,
+          "raw_s": 9.24,
+          "trimmed_s": 6.16
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "lang": "ig",
+      "voice": "ngozi",
+      "hash": "3d0f88045a6776bc",
+      "text": "Mkpụrụ ndụ B ncheta ga na-ekesa n'ọnọdụ izu ike, mgbe ụfọdụ maka iri afọ.",
+      "file": "06_3d0f88045a6776bc.wav",
+      "seconds": 6.48,
+      "segments": [
+        {
+          "text": "Mkpụrụ ndụ B ncheta ga na-ekesa n'ọnọdụ izu ike, mgbe ụfọdụ maka iri afọ.",
+          "gpu_s": 7.35,
+          "tokens": 222,
+          "cap": 222,
+          "cap_hit": true,
+          "raw_s": 8.84,
+          "trimmed_s": 6.48
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "lang": "ig",
+      "voice": "ngozi",
+      "hash": "b16aba220d5260fd",
+      "text": "Mgbe nje virus lọtara, ha na-ebute nzaghachi dị ngwa ngwa ma sie ike karị. Ha na-aza ozugbo iji kpochapụ onye mwakpo ahụ. Soro anyị maka ike pụrụ iche ndị ọzọ dị n'ahụ.",
+      "file": "07_b16aba220d5260fd.wav",
+      "seconds": 13.94,
+      "segments": [
+        {
+          "text": "Mgbe nje virus lọtara, ha na-ebute nzaghachi dị ngwa ngwa ma sie ike karị.",
+          "gpu_s": 7.53,
+          "tokens": 225,
+          "cap": 225,
+          "cap_hit": true,
+          "raw_s": 8.96,
+          "trimmed_s": 5.82
+        },
+        {
+          "text": "Ha na-aza ozugbo iji kpochapụ onye mwakpo ahụ.",
+          "gpu_s": 5.19,
+          "tokens": 154,
+          "cap": 154,
+          "cap_hit": true,
+          "raw_s": 6.12,
+          "trimmed_s": 3.62
+        },
+        {
+          "text": "Soro anyị maka ike pụrụ iche ndị ọzọ dị n'ahụ.",
+          "gpu_s": 5.23,
+          "tokens": 154,
+          "cap": 154,
+          "cap_hit": true,
+          "raw_s": 6.12,
+          "trimmed_s": 4.14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "voice": "ngozi",
+  "seed": 1234,
+  "gpu": "Tesla T4",
+  "sr": 24000,
+  "lufs": -16.0,
+  "lang": "yo",
+  "lines": [
+    {
+      "index": 0,
+      "lang": "yo",
+      "voice": "ngozi",
+      "hash": "52f4c6c6745a1faa",
+      "text": "Àjẹsára rẹ gbìn àwọn sẹ́ẹ̀lì tó sùn tí ń dúró fún ẹ̀wádún. Èyí ni ìdánilẹ́kọ̀ọ́ pàmọ́ tí ń ṣẹlẹ̀ inú rẹ.",
+      "file": "00_52f4c6c6745a1faa.wav",
+      "seconds": 7.64,
+      "segments": [
+        {
+          "text": "Àjẹsára rẹ gbìn àwọn sẹ́ẹ̀lì tó sùn tí ń dúró fún ẹ̀wádún.",
+          "gpu_s": 6.99,
+          "tokens": 185,
+          "cap": 185,
+          "cap_hit": true,
+          "raw_s": 7.36,
+          "trimmed_s": 4.26
+        },
+        {
+          "text": "Èyí ni ìdánilẹ́kọ̀ọ́ pàmọ́ tí ń ṣẹlẹ̀ inú rẹ.",
+          "gpu_s": 5.01,
+          "tokens": 152,
+          "cap": 152,
+          "cap_hit": true,
+          "raw_s": 6.04,
+          "trimmed_s": 3.2
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "lang": "yo",
+      "voice": "ngozi",
+      "hash": "c7ad4060299d3558",
+      "text": "Àwọn àjẹsára ń ṣiṣẹ́ nítorí pé ètò àjẹ́sára rẹ rántí. Ètò adaptive immune system rẹ ló ń kọ́ ìrántí náà.",
+      "file": "01_c7ad4060299d3558.wav",
+      "seconds": 7.98,
+      "segments": [
+        {
+          "text": "Àwọn àjẹsára ń ṣiṣẹ́ nítorí pé ètò àjẹ́sára rẹ rántí.",
+          "gpu_s": 5.88,
+          "tokens": 172,
+          "cap": 172,
+          "cap_hit": true,
+          "raw_s": 6.84,
+          "trimmed_s": 4.16
+        },
+        {
+          "text": "Ètò adaptive immune system rẹ ló ń kọ́ ìrántí náà.",
+          "gpu_s": 5.35,
+          "tokens": 165,
+          "cap": 165,
+          "cap_hit": true,
+          "raw_s": 6.56,
+          "trimmed_s": 3.64
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "lang": "yo",
+      "voice": "ngozi",
+      "hash": "313e460e12365e55",
+      "text": "Àwọn B cells tí a ti mú ṣiṣẹ́ pin sí ọ̀nà méjì. Àwọn sẹ́ẹ̀lì tó dára jù lọ ń dàgbà nínú germinal centers ti lymph node rẹ.",
+      "file": "02_313e460e12365e55.wav",
+      "seconds": 8.4,
+      "segments": [
+        {
+          "text": "Àwọn B cells tí a ti mú ṣiṣẹ́ pin sí ọ̀nà méjì.",
+          "gpu_s": 5.15,
+          "tokens": 157,
+          "cap": 157,
+          "cap_hit": true,
+          "raw_s": 6.24,
+          "trimmed_s": 2.84
+        },
+        {
+          "text": "Àwọn sẹ́ẹ̀lì tó dára jù lọ ń dàgbà nínú germinal centers ti lymph node rẹ.",
+          "gpu_s": 7.25,
+          "tokens": 225,
+          "cap": 225,
+          "cap_hit": true,
+          "raw_s": 8.96,
+          "trimmed_s": 5.38
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "lang": "yo",
+      "voice": "ngozi",
+      "hash": "9fd396994e7c2d3e",
+      "text": "Ní àkọ́kọ́, ìgbì kúkúrú kan ń jóde níta germinal centers. Ó yára, ṣùgbọ́n kì í ṣe ààbò ìkẹyìn.",
+      "file": "03_9fd396994e7c2d3e.wav",
+      "seconds": 7.2,
+      "segments": [
+        {
+          "text": "Ní àkọ́kọ́, ìgbì kúkúrú kan ń jóde níta germinal centers.",
+          "gpu_s": 6.1,
+          "tokens": 182,
+          "cap": 182,
+          "cap_hit": true,
+          "raw_s": 7.24,
+          "trimmed_s": 4.58
+        },
+        {
+          "text": "Ó yára, ṣùgbọ́n kì í ṣe ààbò ìkẹyìn.",
+          "gpu_s": 4.34,
+          "tokens": 130,
+          "cap": 130,
+          "cap_hit": true,
+          "raw_s": 5.16,
+          "trimmed_s": 2.44
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "lang": "yo",
+      "voice": "ngozi",
+      "hash": "c0458db2a470dafc",
+      "text": "Nínú germinal centers, àwọn sẹ́ẹ̀lì tó dára jù lọ ń ṣe àwọn antibody tó dára jù lọ rẹ. Wọ́n ń ṣe ìpele lẹ́yìn ìpele láti yí àwọn gíìnì antibody padà.",
+      "file": "04_c0458db2a470dafc.wav",
+      "seconds": 10.66,
+      "segments": [
+        {
+          "text": "Nínú germinal centers, àwọn sẹ́ẹ̀lì tó dára jù lọ ń ṣe àwọn antibody tó dára jù lọ rẹ.",
+          "gpu_s": 8.31,
+          "tokens": 255,
+          "cap": 255,
+          "cap_hit": true,
+          "raw_s": 10.16,
+          "trimmed_s": 6.32
+        },
+        {
+          "text": "Wọ́n ń ṣe ìpele lẹ́yìn ìpele láti yí àwọn gíìnì antibody padà.",
+          "gpu_s": 6.48,
+          "tokens": 195,
+          "cap": 195,
+          "cap_hit": true,
+          "raw_s": 7.76,
+          "trimmed_s": 4.16
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "lang": "yo",
+      "voice": "ngozi",
+      "hash": "62ec6f724864902a",
+      "text": "Àwọn B cells yóò tún kọ àwọn receptor nínú germinal centers. Àwọn mutation ń mú kí ìsopọ̀ lágbára sí i tàbí kí ó rọ nínú affinity maturation.",
+      "file": "05_62ec6f724864902a.wav",
+      "seconds": 10.68,
+      "segments": [
+        {
+          "text": "Àwọn B cells yóò tún kọ àwọn receptor nínú germinal centers.",
+          "gpu_s": 6.28,
+          "tokens": 190,
+          "cap": 190,
+          "cap_hit": true,
+          "raw_s": 7.56,
+          "trimmed_s": 4.46
+        },
+        {
+          "text": "Àwọn mutation ń mú kí ìsopọ̀ lágbára sí i tàbí kí ó rọ nínú affinity maturation.",
+          "gpu_s": 7.88,
+          "tokens": 240,
+          "cap": 240,
+          "cap_hit": true,
+          "raw_s": 9.56,
+          "trimmed_s": 6.04
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "lang": "yo",
+      "voice": "ngozi",
+      "hash": "36c09f0f49439dcb",
+      "text": "Àwọn memory B cells yóò máa rìn káàkiri ní ìsinmi, nígbà míràn fún ẹ̀wádún.",
+      "file": "06_36c09f0f49439dcb.wav",
+      "seconds": 4.6,
+      "segments": [
+        {
+          "text": "Àwọn memory B cells yóò máa rìn káàkiri ní ìsinmi, nígbà míràn fún ẹ̀wádún.",
+          "gpu_s": 7.47,
+          "tokens": 227,
+          "cap": 227,
+          "cap_hit": true,
+          "raw_s": 9.04,
+          "trimmed_s": 4.6
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "lang": "yo",
+      "voice": "ngozi",
+      "hash": "fe879a3e1bd11783",
+      "text": "Nígbà tí kòkòrò fáírọ́ọ̀sì bá padà dé, wọ́n ń dáhùn yára àti lágbára jù. Wọ́n ń dáhùn lẹ́sẹ̀kẹsẹ̀ láti pa abaniwọlé náà run. Tẹ̀lé fún àwọn agbára ìyanu ara míràn.",
+      "file": "07_fe879a3e1bd11783.wav",
+      "seconds": 10.14,
+      "segments": [
+        {
+          "text": "Nígbà tí kòkòrò fáírọ́ọ̀sì bá padà dé, wọ́n ń dáhùn yára àti lágbára jù.",
+          "gpu_s": 7.34,
+          "tokens": 220,
+          "cap": 220,
+          "cap_hit": true,
+          "raw_s": 8.76,
+          "trimmed_s": 4.22
+        },
+        {
+          "text": "Wọ́n ń dáhùn lẹ́sẹ̀kẹsẹ̀ láti pa abaniwọlé náà run.",
+          "gpu_s": 5.55,
+          "tokens": 167,
+          "cap": 167,
+          "cap_hit": true,
+          "raw_s": 6.64,
+          "trimmed_s": 3.28
+        },
+        {
+          "text": "Tẹ̀lé fún àwọn agbára ìyanu ara míràn.",
+          "gpu_s": 4.66,
+          "tokens": 134,
+          "cap": 134,
+          "cap_hit": true,
+          "raw_s": 5.32,
+          "trimmed_s": 2.28
+        }
+      ]
+    }
+  ]
+}

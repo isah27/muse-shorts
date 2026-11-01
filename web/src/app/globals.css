@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body { background: #06070b; color: #e8eaf2; }
+body { font-family: var(--font-inter), system-ui, sans-serif; }
+.font-display { font-family: var(--font-display), var(--font-inter), sans-serif; }
+.glass { background: linear-gradient(180deg, rgba(255,255,255,.055), rgba(255,255,255,.02)); border: 1px solid rgba(255,255,255,.08); backdrop-filter: blur(18px); }
+.aurora { position: fixed; inset: -20%; z-index: 0; pointer-events: none;
+  background: radial-gradient(40% 35% at 20% 20%, rgba(56,189,248,.18), transparent 70%),
+              radial-gradient(35% 30% at 80% 10%, rgba(168,85,247,.16), transparent 70%),
+              radial-gradient(45% 40% at 60% 90%, rgba(244,114,182,.10), transparent 70%);
+  filter: blur(30px); animation: drift 22s ease-in-out infinite alternate; }
+@keyframes drift { to { transform: translate3d(3%, -2%, 0) scale(1.06); } }
+.grain { position: fixed; inset: 0; z-index: 0; pointer-events: none; opacity: .05;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence baseFrequency='.9' numOctaves='3'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>"); }
+.shimmer { background: linear-gradient(90deg, rgba(255,255,255,.03) 0%, rgba(255,255,255,.09) 50%, rgba(255,255,255,.03) 100%); background-size: 200% 100%; animation: sh 1.4s linear infinite; }
+@keyframes sh { to { background-position: -200% 0; } }
+.text-gradient { background: linear-gradient(92deg, #f8fafc 10%, #7dd3fc 45%, #c4b5fd 75%, #f9a8d4); -webkit-background-clip: text; background-clip: text; color: transparent; }
+::selection { background: rgba(125,211,252,.35); }

@@ -1,0 +1,234 @@
+{
+ "voice": "ngozi",
+ "seed": 1234,
+ "gpu": "Tesla T4",
+ "sr": 24000,
+ "lufs": -16.0,
+ "lines": [
+  {
+   "index": 0,
+   "lang": "pcm",
+   "hash": "3199375e25173391",
+   "text": "Your vaccine don plant sleeper cells wey dey wait for decades. Na di hidden training wey dey inside your body be this.",
+   "file": "00_3199375e25173391.wav",
+   "seconds": 6.9,
+   "segments": [
+    {
+     "text": "Your vaccine don plant sleeper cells wey dey wait for decades.",
+     "gpu_s": 7.68,
+     "tokens": 195,
+     "cap": 195,
+     "cap_hit": true,
+     "raw_s": 7.76,
+     "trimmed_s": 2.92
+    },
+    {
+     "text": "Na di hidden training wey dey inside your body be this.",
+     "gpu_s": 6.15,
+     "tokens": 177,
+     "cap": 177,
+     "cap_hit": true,
+     "raw_s": 7.04,
+     "trimmed_s": 3.8
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "lang": "pcm",
+   "hash": "a21ed63989fc7bd1",
+   "text": "Vaccines dey work because your immune system dey remember. Na your adaptive immune system dey build that memory.",
+   "file": "01_a21ed63989fc7bd1.wav",
+   "seconds": 6.96,
+   "segments": [
+    {
+     "text": "Vaccines dey work because your immune system dey remember.",
+     "gpu_s": 6.31,
+     "tokens": 185,
+     "cap": 185,
+     "cap_hit": true,
+     "raw_s": 7.36,
+     "trimmed_s": 3.54
+    },
+    {
+     "text": "Na your adaptive immune system dey build that memory.",
+     "gpu_s": 5.83,
+     "tokens": 172,
+     "cap": 172,
+     "cap_hit": true,
+     "raw_s": 6.84,
+     "trimmed_s": 3.24
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "lang": "pcm",
+   "hash": "c060b19095b2afea",
+   "text": "Activated B cells dey split into two paths. Di elite ones dey develop inside your lymph node germinal centers.",
+   "file": "02_c060b19095b2afea.wav",
+   "seconds": 8.54,
+   "segments": [
+    {
+     "text": "Activated B cells dey split into two paths.",
+     "gpu_s": 4.95,
+     "tokens": 147,
+     "cap": 147,
+     "cap_hit": true,
+     "raw_s": 5.84,
+     "trimmed_s": 4.42
+    },
+    {
+     "text": "Di elite ones dey develop inside your lymph node germinal centers.",
+     "gpu_s": 6.88,
+     "tokens": 205,
+     "cap": 205,
+     "cap_hit": true,
+     "raw_s": 8.16,
+     "trimmed_s": 3.94
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "lang": "pcm",
+   "hash": "4f4d66eeafa52168",
+   "text": "First, short wave dey fire outside germinal centers. E fast, but e no be di final defence.",
+   "file": "03_4f4d66eeafa52168.wav",
+   "seconds": 5.94,
+   "segments": [
+    {
+     "text": "First, short wave dey fire outside germinal centers.",
+     "gpu_s": 5.77,
+     "tokens": 170,
+     "cap": 170,
+     "cap_hit": true,
+     "raw_s": 6.76,
+     "trimmed_s": 3.42
+    },
+    {
+     "text": "E fast, but e no be di final defence.",
+     "gpu_s": 4.51,
+     "tokens": 132,
+     "cap": 132,
+     "cap_hit": true,
+     "raw_s": 5.24,
+     "trimmed_s": 2.34
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "lang": "pcm",
+   "hash": "ce6245aa130b5a7a",
+   "text": "Inside germinal centers, elite cells dey make your best antibodies. Dem dey run round afta round to mutate antibody genes.",
+   "file": "04_ce6245aa130b5a7a.wav",
+   "seconds": 7.72,
+   "segments": [
+    {
+     "text": "Inside germinal centers, elite cells dey make your best antibodies.",
+     "gpu_s": 6.84,
+     "tokens": 207,
+     "cap": 207,
+     "cap_hit": true,
+     "raw_s": 8.24,
+     "trimmed_s": 3.84
+    },
+    {
+     "text": "Dem dey run round afta round to mutate antibody genes.",
+     "gpu_s": 6.01,
+     "tokens": 175,
+     "cap": 175,
+     "cap_hit": true,
+     "raw_s": 6.96,
+     "trimmed_s": 3.7
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "lang": "pcm",
+   "hash": "b01a5cab21297e6d",
+   "text": "B cells go rewrite receptors inside germinal centers. Mutations dey raise or lower binding inside affinity maturation.",
+   "file": "05_b01a5cab21297e6d.wav",
+   "seconds": 8.26,
+   "segments": [
+    {
+     "text": "B cells go rewrite receptors inside germinal centers.",
+     "gpu_s": 5.9,
+     "tokens": 172,
+     "cap": 172,
+     "cap_hit": true,
+     "raw_s": 6.84,
+     "trimmed_s": 3.68
+    },
+    {
+     "text": "Mutations dey raise or lower binding inside affinity maturation.",
+     "gpu_s": 6.9,
+     "tokens": 200,
+     "cap": 200,
+     "cap_hit": true,
+     "raw_s": 7.96,
+     "trimmed_s": 4.4
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "lang": "pcm",
+   "hash": "2f956507ca98417f",
+   "text": "Memory B cells go dey waka quietly for body, sometimes for decades.",
+   "file": "06_2f956507ca98417f.wav",
+   "seconds": 4.58,
+   "segments": [
+    {
+     "text": "Memory B cells go dey waka quietly for body, sometimes for decades.",
+     "gpu_s": 7.01,
+     "tokens": 207,
+     "cap": 207,
+     "cap_hit": true,
+     "raw_s": 8.24,
+     "trimmed_s": 4.58
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "lang": "pcm",
+   "hash": "26cff71e662b8a34",
+   "text": "If virus return, dem go launch faster, stronger response. Dem dey respond immediately to eliminate di invader. Follow for more body superpowers.",
+   "file": "07_26cff71e662b8a34.wav",
+   "seconds": 9.64,
+   "segments": [
+    {
+     "text": "If virus return, dem go launch faster, stronger response.",
+     "gpu_s": 6.25,
+     "tokens": 182,
+     "cap": 182,
+     "cap_hit": true,
+     "raw_s": 7.24,
+     "trimmed_s": 3.56
+    },
+    {
+     "text": "Dem dey respond immediately to eliminate di invader.",
+     "gpu_s": 5.89,
+     "tokens": 170,
+     "cap": 170,
+     "cap_hit": true,
+     "raw_s": 6.76,
+     "trimmed_s": 3.4
+    },
+    {
+     "text": "Follow for more body superpowers.",
+     "gpu_s": 4.37,
+     "tokens": 122,
+     "cap": 122,
+     "cap_hit": true,
+     "raw_s": 4.84,
+     "trimmed_s": 2.32
+    }
+   ]
+  }
+ ],
+ "total_s": 137.0
+}

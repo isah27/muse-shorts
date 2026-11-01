@@ -1,0 +1,13 @@
+.venv/
+models/
+outputs/
+web/node_modules/
+web/.next/
+.env
+__pycache__/
+*.pyc
+.next/
+node_modules/
+outputs/
+voice_samples/
+PLAN*.md
